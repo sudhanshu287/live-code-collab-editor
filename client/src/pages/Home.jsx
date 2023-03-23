@@ -42,7 +42,7 @@ if(e.code==='Enter'){
                 <button className='btn joinBtn' onClick={joinRoom}>Join</button>
                 <span className="createInfo">
                     If you don't have an invitation then create &nbsp;
-                    <a href="" className='createNewBtn' onClick={createNewRoom}>new room</a>
+                    <a href="#" className='createNewBtn' onClick={createNewRoom}>new room</a>
                 </span>
             </div>
         </div>
