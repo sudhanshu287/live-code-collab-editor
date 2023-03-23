@@ -4,12 +4,12 @@
 <div align="center">
   
 
-  <h1></h1>
+  <h1>Live Code Collab Editor(Code Sync)</h1>
    <hr/>
 
-  This is a movie app.
+ 
 
-  <a href="https://movix-one.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://live-code-collab-editor.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
@@ -22,12 +22,14 @@
 
 ## Screenshots of Project
 
-![Movix Preview Image](https://github.com/sudhanshu287/)
+![Code Sync Preview Image](https://github.com/sudhanshu287/live-code-collab-editor/blob/main/client/src/assets/live-code-editor-preview1.png)
+
+![Code Sync Image](https://github.com/sudhanshu287/live-code-collab-editor/blob/main/client/src/assets/live-code-editor-preview2.png)
 
 
 ## Live Project
 
-[Click Here](https://movix-one.vercel.app/)
+[Click Here](https://live-code-collab-editor.vercel.app/)
 
 
 ## Created By :
@@ -41,7 +43,7 @@ I have a basic knowledge of data structure and algorithms using C++ language. As
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Java ,C++
+Javascript,Node, HTML, CSS, React, Java ,C++
 
 
 ## 🔗 Links
