@@ -1,12 +1,16 @@
 const express=require('express');
 
 const app=express();
+
+
+
 const http=require('http');
 
 const {Server}=require('socket.io');
 const ACTIONS = require('./Actions');
 const server=http.createServer(app);
 const io=new Server(server);
+
 
 
 const userSocketMap={};
@@ -18,7 +22,8 @@ function getAllConnectedClients(roomId){
             username:userSocketMap[socketId],
         };
     });
-}
+};
+
 io.on('connection',(socket)=>{
     socket.on(ACTIONS.JOIN,({roomId,username})=>{
         userSocketMap[socket.id]=username;
@@ -53,7 +58,9 @@ io.on('connection',(socket)=>{
         delete userSocketMap[socket.id];
         socket.leave();
     })
-})
+});
+
+
 const PORT=process.env.PORT || 5000
 
 server.listen(PORT,()=>console.log(`Listening on port ${PORT}`));

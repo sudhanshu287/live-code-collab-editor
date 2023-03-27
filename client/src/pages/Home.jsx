@@ -47,7 +47,7 @@ if(e.code==='Enter'){
             </div>
         </div>
         <footer>
-            <h4>Built with &#10084;&#65039; By &nbsp;<a href=""> Sudhanshu</a></h4>
+            <h4>Built with &#10084;&#65039; By &nbsp;<a href="https://github.com/sudhanshu287"> Sudhanshu Patel</a></h4>
         </footer>
     </div>
   )

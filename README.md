@@ -5,17 +5,15 @@
   
 
   <h1>Live Code Collab Editor(Code Sync)</h1>
-   <hr/>
-
- 
-
   <a href="https://live-code-collab-editor.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
 
 
-
+- Real time code sharing WebApp.
+- If you don't have Room id click on **new room** button It will create new RoomID and Enter your in and join.
+- Multiple Users can Join a Room.
 
 
 
@@ -29,7 +27,7 @@
 
 ## Live Project
 
-[Click Here](https://live-code-collab-editor.vercel.app/)
+[Live editor preview image](https://live-code-collab-editor.vercel.app/)
 
 
 ## Created By :
@@ -47,7 +45,7 @@ Javascript,Node, HTML, CSS, React, Java ,C++
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sudhanshu-portfolio-sdn.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sudhanshupatel.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu123)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
@@ -55,6 +53,7 @@ Javascript,Node, HTML, CSS, React, Java ,C++
 ## Tech Stack
 
 **Client:** React
+
 **Server:** Node,Express
 
 
