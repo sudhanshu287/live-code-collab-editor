@@ -22,12 +22,12 @@
 
 ![Code Sync Preview Image](https://github.com/sudhanshu287/live-code-collab-editor/blob/main/client/src/assets/live-code-editor-preview1.png)
 
-![Code Sync Image](https://github.com/sudhanshu287/live-code-collab-editor/blob/main/client/src/assets/live-code-editor-preview2.png)
+![Code Sync Preview Image](https://github.com/sudhanshu287/live-code-collab-editor/blob/main/client/src/assets/live-code-editor-preview2.png)
 
 
 ## Live Project
 
-[Live editor preview image](https://live-code-collab-editor.vercel.app/)
+[Click Here](https://live-code-collab-editor.vercel.app/)
 
 
 ## Created By :
