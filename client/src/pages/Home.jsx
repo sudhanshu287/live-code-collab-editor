@@ -41,14 +41,12 @@ if(e.code==='Enter'){
                 <input type="text" className='inputBox' placeholder='USERNAME' value={username} onChange={(e)=>setUsername(e.target.value)} onKeyUp={handleInputEnter} />
                 <button className='btn joinBtn' onClick={joinRoom}>Join</button>
                 <span className="createInfo">
-                    If you don't have an invitation then create &nbsp;
+                    If you don't have an invitation, then create &nbsp;
                     <a href="#" className='createNewBtn' onClick={createNewRoom}>new room</a>
                 </span>
             </div>
         </div>
-        <footer>
-            <h4>Built with &#10084;&#65039; By &nbsp;<a href="https://github.com/sudhanshu287"> Sudhanshu Patel</a></h4>
-        </footer>
+      
     </div>
   )
 }
